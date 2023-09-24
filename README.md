@@ -20,6 +20,8 @@ APE11 JABES GUILHERME VOLTATONI
 5. Qual a importância da utilização do controle de versionamento no
 desenvolvimento de um software?
 
+ R:O controle de versionamento é crucial no desenvolvimento de software pois permite rastrear e gerenciar as alterações no código-fonte ao longo do tempo. Isso garante um histórico detalhado das modificações, facilitando a identificação e correção de erros. Além disso, viabiliza o trabalho colaborativo, permitindo que vários desenvolvedores contribuam simultaneamente sem conflitos. O controle de versionamento também possibilita a criação de diferentes versões do software, facilitando a implementação de novas funcionalidades ou a correção de bugs sem comprometer a estabilidade da versão principal. Dessa forma, o controle de versionamento é essencial para a eficiência e integridade do processo de desenvolvimento de software.
+
 6. Cite pelo menos três ferramentas de controle de versão e faça um breve
 detalhamento sobre cada uma delas.
 
