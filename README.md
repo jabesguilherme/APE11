@@ -15,6 +15,8 @@ APE11 JABES GUILHERME VOLTATONI
 
 4. Quais as vantagens do Git?
 
+ R:O Git oferece diversas vantagens no controle de versionamento. Ele permite o trabalho em equipe eficiente, facilitando a colaboração em projetos. Ramificações possibilitam o desenvolvimento paralelo sem interferências. O Git também é rápido, suporta trabalho offline e mantém um histórico detalhado de alterações. Além disso, sua popularidade garante uma vasta comunidade de suporte. Essas características fazem do Git uma escolha confiável e poderosa para gerenciar o código-fonte em projetos de software.
+
 5. Qual a importância da utilização do controle de versionamento no
 desenvolvimento de um software?
 
