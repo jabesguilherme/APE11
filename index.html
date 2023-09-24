@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perguntas parte 2</title>
+    <!-- Custom CSS-->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+     <header class="header">
+        <a href="#" class="logo">Perguntas</a>
+
+
+        <nav class="navbar">
+            <a href="./index.html">Perguntas</a>
+            <a href="./sem-flow.html">Comandos sem flow</a>
+            <a href="./com-flow.html">Comandos com flow</a>
+        </nav>
+    </header>
+    
+    <section class="questions">
+        <h1>Para que serve o commit e qual a melhor forma de utilizá-lo?</h1>
+        <p>R: O commit no controle de versão registra uma etapa específica do projeto, capturando as alterações feitas. Ele cria um ponto de referência no histórico do código, o que facilita o rastreamento de mudanças e a reversão, se necessário. A melhor prática ao usar commits é fazê-los de forma granular e com mensagens descritivas, indicando claramente as alterações realizadas. Isso mantém o histórico organizado e facilita a compreensão das modificações. Também é importante evitar a inclusão de mudanças não relacionadas em um mesmo commit para manter o controle de versão preciso e legível.</p>
+        <br>
+        <h1>Qual a diferença entre commit e push?</h1>
+        <p>R: O commit é a ação de registrar as alterações no repositório local do Git. Ele cria um ponto de verificação no histórico do projeto. Já o push é o ato de enviar os commits locais para um repositório remoto, tornando as alterações disponíveis para outros membros da equipe. Em resumo, o commit é local, enquanto o push envia as mudanças para um servidor central ou uma plataforma de hospedagem, permitindo a colaboração efetiva em equipe.</p>
+        <br>
+        <h1>O que é tag?</h1>
+        <p>R: Uma tag no Git é um marcador específico que representa um ponto importante no histórico de um projeto. Geralmente, é usado para marcar versões estáveis ou releases significativos. Ao contrário de um ramo (branch), uma tag é estática e não muda com novos commits. Ela serve como uma referência fixa para um determinado estado do código, facilitando a identificação de versões específicas do software. Isso é valioso para o gerenciamento de versões e para a criação de releases bem definidos.</p>
+        <br>
+        <h1>O que é branch?</h1>
+        <p>R: Um branch (ramo) no Git é uma linha de desenvolvimento independente que deriva do código principal (geralmente chamado de branch "master"). Permite que os desenvolvedores trabalhem em novas funcionalidades ou correções sem afetar diretamente o código principal. Isso facilita o desenvolvimento paralelo e a experimentação. Após concluídas as modificações em um branch, é possível fundi-lo de volta ao branch principal. Essa capacidade de criação e gestão de branches é fundamental para o controle de versionamento e colaboração eficaz em projetos de software.</p>
+        <br>
+        <h1>Como resolver possíveis conflitos no Git?</h1>
+        <p>R: Para resolver conflitos no Git, primeiro, é preciso realizar um "git pull" para obter as últimas alterações do repositório remoto. Em seguida, o Git indicará os arquivos com conflitos. Abrindo-os, o desenvolvedor pode editar manualmente as seções conflitantes, mantendo as alterações desejadas. Depois, os arquivos editados devem ser adicionados e comitados. Se houver dificuldades, é aconselhável buscar ajuda da equipe ou utilizar ferramentas de resolução automática, como "git mergetool". Por fim, é importante testar para garantir a integridade do código antes de realizar o push.</p>
+    
+    
+    </section>
+</body>
+</html>
