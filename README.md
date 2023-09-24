@@ -2,6 +2,7 @@
 APE11 JABES GUILHERME VOLTATONI
 
 1. O que é o Git?
+R: O Git é um sistema de controle de versão distribuído amplamente utilizado na programação de software. Ele permite que os desenvolvedores rastreiem e gerenciem as alterações em um projeto, possibilitando colaboração eficiente em equipe. Com o Git, é possível criar ramificações para trabalhar em novas funcionalidades sem interferir no código principal. Além disso, ele facilita a fusão de diferentes versões do código. Isso o torna uma ferramenta essencial para o desenvolvimento de software, garantindo histórico detalhado, controle de versões e colaboração eficaz entre os membros da equipe.
 
 2. O que é versionamento de software?
 
