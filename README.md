@@ -25,4 +25,26 @@ desenvolvimento de um software?
 6. Cite pelo menos três ferramentas de controle de versão e faça um breve
 detalhamento sobre cada uma delas.
 
-.
+ R: Git:
+
+    Descrição: O Git é um sistema de controle de versão distribuído amplamente utilizado. Ele rastreia alterações em repositórios locais, permitindo o trabalho offline e a criação de ramificações independentes.
+        Principais Características:
+        Eficiente para ramificação.
+        Histórico detalhado.
+        Facilita colaboração em equipe.
+        Suporta trabalho offline.
+
+    Subversion (SVN):
+
+    Descrição: O SVN é um sistema de controle de versão centralizado. Mantém um repositório central onde todas as alterações são registradas, com os usuários atualizando e enviando mudanças para este repositório.
+    Principais Características:
+    Controle centralizado.
+    Histórico de versões linear.
+    
+    Mercurial:
+
+    Descrição: O Mercurial é um sistema de controle de versão distribuído semelhante ao Git. Ele permite o acompanhamento de alterações localmente, facilitando a colaboração e a criação de ramificações independentes.
+        Principais Características:
+        Fácil de aprender e usar.
+        Suporta colaboração em equipe.
+        Trabalho offline eficaz.
